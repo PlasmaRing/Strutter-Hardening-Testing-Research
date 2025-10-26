@@ -1,5 +1,3 @@
-# DETECTION_MECHANISM.md
-
 ## Overview
 This document describes the detection mechanisms implemented in the **hardened version** of the Flutter-based Android application.
 
