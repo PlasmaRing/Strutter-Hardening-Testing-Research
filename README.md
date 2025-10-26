@@ -39,8 +39,6 @@ Each `.xlsx` file represents the testing output submitted by individual evaluato
 
 ### Application Packages
 
-### Application Packages
-
 | Folder | Description |
 |---------|--------------|
 | `apps/hardened/` | Hardened Android application version with **SSL Pinning**, plus additional runtime protections such as **Integrity Verification**, **Anti-Hooking Detection**, and **Root Detection**. |
